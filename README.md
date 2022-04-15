@@ -1,4 +1,2 @@
-# fxserver-esx_boilerplate
+# fxserver-aimcon_boilerplate
 FXServer ESX Boilerplate
-
-This a sample script for es_extended
